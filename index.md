@@ -33,7 +33,6 @@ The documentation may be publicly hosted for this assignment, but publishing the
 - Boolean values indicate true or false.
 - Arrays contain collections of items.
 - Objects contain related fields.
-- Example IDs and values in this document are fictional.
 
 ---
 
